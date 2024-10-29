@@ -1,0 +1,14 @@
+C:\Users\ADARSH SHARMA\source\repos\DIP_Demo\DIP_Demo\obj\Debug\net6.0\DIP_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADARSH SHARMA\source\repos\DIP_Demo\DIP_Demo\obj\Debug\net6.0\DIP_Demo.AssemblyInfoInputs.cache
+C:\Users\ADARSH SHARMA\source\repos\DIP_Demo\DIP_Demo\obj\Debug\net6.0\DIP_Demo.AssemblyInfo.cs
+C:\Users\ADARSH SHARMA\source\repos\DIP_Demo\DIP_Demo\obj\Debug\net6.0\DIP_Demo.csproj.CoreCompileInputs.cache
+C:\Users\ADARSH SHARMA\source\repos\DIP_Demo\DIP_Demo\bin\Debug\net6.0\DIP_Demo.exe
+C:\Users\ADARSH SHARMA\source\repos\DIP_Demo\DIP_Demo\bin\Debug\net6.0\DIP_Demo.deps.json
+C:\Users\ADARSH SHARMA\source\repos\DIP_Demo\DIP_Demo\bin\Debug\net6.0\DIP_Demo.runtimeconfig.json
+C:\Users\ADARSH SHARMA\source\repos\DIP_Demo\DIP_Demo\bin\Debug\net6.0\DIP_Demo.dll
+C:\Users\ADARSH SHARMA\source\repos\DIP_Demo\DIP_Demo\bin\Debug\net6.0\DIP_Demo.pdb
+C:\Users\ADARSH SHARMA\source\repos\DIP_Demo\DIP_Demo\obj\Debug\net6.0\DIP_Demo.dll
+C:\Users\ADARSH SHARMA\source\repos\DIP_Demo\DIP_Demo\obj\Debug\net6.0\refint\DIP_Demo.dll
+C:\Users\ADARSH SHARMA\source\repos\DIP_Demo\DIP_Demo\obj\Debug\net6.0\DIP_Demo.pdb
+C:\Users\ADARSH SHARMA\source\repos\DIP_Demo\DIP_Demo\obj\Debug\net6.0\DIP_Demo.genruntimeconfig.cache
+C:\Users\ADARSH SHARMA\source\repos\DIP_Demo\DIP_Demo\obj\Debug\net6.0\ref\DIP_Demo.dll
